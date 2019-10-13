@@ -1,0 +1,7 @@
+127.0.0.1 - - [04/Oct/2019:18:13:49 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [04/Oct/2019:18:13:58 +0700] "GET /java-web-simple/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [04/Oct/2019:18:14:00 +0700] "GET /java-web-simple/trang-chu HTTP/1.1" 200 4680
+0:0:0:0:0:0:0:1 - - [04/Oct/2019:18:14:00 +0700] "GET /java-web-simple/template/web/css/small-business.css HTTP/1.1" 200 286
+0:0:0:0:0:0:0:1 - - [04/Oct/2019:18:14:00 +0700] "GET /java-web-simple/template/web/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 78635
+0:0:0:0:0:0:0:1 - - [04/Oct/2019:18:14:00 +0700] "GET /java-web-simple/template/web/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 155758
+0:0:0:0:0:0:0:1 - - [04/Oct/2019:18:14:00 +0700] "GET /java-web-simple/template/web/vendor/jquery/jquery.min.js HTTP/1.1" 200 88145

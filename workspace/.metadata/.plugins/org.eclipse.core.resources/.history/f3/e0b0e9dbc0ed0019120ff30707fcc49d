@@ -1,0 +1,5 @@
+package com.dodo.util;
+
+public class SecurityUtil {
+
+}

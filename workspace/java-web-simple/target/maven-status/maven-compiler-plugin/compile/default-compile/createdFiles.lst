@@ -1,0 +1,5 @@
+com\dodo\service\IHomeService.class
+com\dodo\controller\admin\HomeController.class
+com\dodo\controller\web\HomeController.class
+com\dodo\service\impl\HomeService.class
+com\dodo\interceptor\MenuHandleInterceptor.class

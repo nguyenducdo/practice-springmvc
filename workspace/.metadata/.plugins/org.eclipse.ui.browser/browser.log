@@ -1,0 +1,149 @@
+
+Oct 01, 2019 24:11:38.83 NEW SESSION
+Oct 01, 2019 24:11:38.83 [Parent 15012, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 01, 2019 24:11:39.17 [Child 15268, Chrome_ChildThread] WARNING: 
+Oct 01, 2019 24:11:39.30 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Oct 01, 2019 24:11:39.33 
+Oct 01, 2019 24:11:39.36 
+Oct 01, 2019 24:11:39.38 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Oct 01, 2019 24:11:39.41 
+Oct 01, 2019 24:22:11.02 [Parent 14780, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 01, 2019 24:22:11.02 [Child 12668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 01, 2019 24:23:41.79 [Child 12668, Chrome_ChildThread] WARN[Parent 14780, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 01, 2019 24:23:41.79 [Child 14548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 01, 2019 24:23:43.83 [Child 14548, Chrome_ChildThread] W[Child 11572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 01, 2019 24:23:44.05 
+Oct 01, 2019 24:23:44.06 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Oct 01, 2019 24:23:44.06 
+Oct 01, 2019 24:23:44.08 
+Oct 01, 2019 24:23:44.08 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Oct 01, 2019 24:23:44.09 
+
+Oct 04, 2019 18:14:13.75 NEW SESSION
+Oct 04, 2019 18:14:13.75 [Parent 10232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 04, 2019 18:14:13.94 [Child 11844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 04, 2019 18:14:14.19 
+Oct 04, 2019 18:14:14.20 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Oct 04, 2019 18:14:14.20 
+Oct 04, 2019 18:14:14.21 [GPU 2736, Chrome_ChildThread] WARNIN
+Oct 04, 2019 18:14:14.22 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Oct 04, 2019 18:14:14.22 
+Oct 04, 2019 18:14:14.24 
+Oct 04, 2019 18:14:14.27 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Oct 04, 2019 18:14:14.27 
+
+Oct 06, 2019 21:57:43.25 NEW SESSION
+Oct 06, 2019 21:57:43.25 IPDL protocol error: Handler returned error code!
+Oct 06, 2019 21:57:43.31 
+Oct 06, 2019 21:57:43.31 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Oct 06, 2019 21:57:43.31 
+Oct 06, 2019 21:57:48.03 IPDL protocol error: Handler returned error code!
+Oct 06, 2019 21:57:48.04 
+Oct 06, 2019 21:57:48.04 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Oct 06, 2019 21:57:48.04 
+Oct 06, 2019 22:07:33.57 IPDL protocol error: Handler returned error code!
+Oct 06, 2019 22:07:33.58 
+Oct 06, 2019 22:07:33.58 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+Oct 06, 2019 22:07:33.58 
+Oct 06, 2019 22:10:11.39 [Child 8076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 06, 2019 22:10:11.39 [Child 8076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+Oct 07, 2019 17:26:11.29 NEW SESSION
+Oct 07, 2019 17:26:11.29 [Parent 4924, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 07, 2019 17:26:11.62 [Child 1148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 07, 2019 17:26:11.62 [Child 11372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 07, 2019 17:26:11.65 [Child 11372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/comm
+Oct 07, 2019 17:26:11.66 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Oct 07, 2019 17:26:11.66 
+Oct 07, 2019 17:26:11.75 
+Oct 07, 2019 17:26:11.75 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Oct 07, 2019 17:26:11.76 
+
+Oct 08, 2019 16:36:57.31 NEW SESSION
+Oct 08, 2019 16:36:57.31 [Child 10596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task[Parent 7296, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 08, 2019 16:36:57.37 [Parent 7296, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 08, 2019 16:36:57.39 [Child 11436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 08, 2019 16:36:57.39 [Child 3580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 08, 2019 16:36:57.51 [Child 3580, Chrome_ChildThr[GPU 1240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 08, 2019 16:36:57.57 
+Oct 08, 2019 16:36:57.57 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Oct 08, 2019 16:36:57.57 
+Oct 08, 2019 16:36:57.73 
+Oct 08, 2019 16:36:57.73 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Oct 08, 2019 16:36:57.73 
+
+Oct 09, 2019 22:51:27.31 NEW SESSION
+Oct 09, 2019 22:51:27.31 [Parent 3424, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 09, 2019 22:51:27.37 [Child 12572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 09, 2019 22:51:27.45 [Parent 3424, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 09, 2019 22:51:27.47 [Child 11736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 09, 2019 22:51:27.50 [Child 11736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 09, 2019 22:51:27.51 [Parent 3424, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 09, 2019 22:51:27.54 [Child 9496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 09, 2019 22:51:27.56 [Child 9496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc[Parent 3424, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 09, 2019 22:51:27.56 [Child 9576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 09, 2019 22:51:27.81 [Child 2648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 09, 2019 22:51:28.13 
+Oct 09, 2019 22:51:28.23 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Oct 09, 2019 22:51:28.24 
+Oct 09, 2019 22:51:28.25 
+Oct 09, 2019 22:51:28.25 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Oct 09, 2019 22:51:28.26 
+Oct 09, 2019 22:51:28.48 
+Oct 09, 2019 22:51:28.49 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Oct 09, 2019 22:51:28.49 
+
+Oct 13, 2019 16:21:06.90 NEW SESSION
+Oct 13, 2019 16:21:06.90 [Parent 10880, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 16:21:07.23 [Child 12412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 16:22:45.26 [Child 12412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_chann[Child 13008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 16:22:45.26 [Child 13008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 16:23:57.94 [Parent 10880, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 16:23:57.94 [Child 9304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 16:29:53.43 [Child 9304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_cha[Parent 10880, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 16:29:53.43 [Child 14216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 16:29:53.43 [Child 14216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 16:29:56.89 [Parent 10880, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 16:29:56.92 [Child 11484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 16:29:56.94 [Child 11484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 16:29:57.06 [Child 8164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 16:29:57.06 [Child 8164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 16:29:57.06 
+Oct 13, 2019 16:29:57.08 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Oct 13, 2019 16:29:57.08 
+Oct 13, 2019 16:29:57.09 [Parent 10880, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 16:29:57.10 [Child 13940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 16:29:57.10 [Child 13940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 16:29:57.11 [Parent 10880, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 16:29:57.46 
+Oct 13, 2019 16:29:57.47 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Oct 13, 2019 16:29:57.47 
+Oct 13, 2019 16:29:58.15 
+Oct 13, 2019 16:29:58.16 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Oct 13, 2019 16:29:58.16 
+Oct 13, 2019 20:33:30.03 [Parent 12992, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 20:33:32.12 [Child 6284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 20:33:32.12 [Parent 12992, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 20:33:32.12 [Child 6988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 20:33:32.12 [Child 6988, Chrom[Child 10236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 20:33:32.13 [Child 10236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 20:33:32.13 
+Oct 13, 2019 20:33:32.13 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Oct 13, 2019 20:33:32.14 
+Oct 13, 2019 20:33:32.15 
+Oct 13, 2019 20:33:32.15 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Oct 13, 2019 20:33:32.15 
+Oct 13, 2019 21:18:34.01 [Parent 14920, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 21:18:34.02 [Child 11948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 21:18:34.07 [Child 11948, Chrome_ChildThread] WARNING: pipe error: 109: file z:[Child 12364, Chrome_ChildThread] WARNING: pipe error: 109: file[Parent 14920, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 21:18:34.11  z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 21:18:34.23 [Ch
+Oct 13, 2019 21:18:34.25 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Oct 13, 2019 21:18:34.25 
+Oct 13, 2019 21:18:34.25 [GPU 6620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Oct 13, 2019 21:18:34.25 
+Oct 13, 2019 21:18:34.26 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Oct 13, 2019 21:18:34.26 
+Oct 13, 2019 21:18:34.29 
+Oct 13, 2019 21:18:34.29 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Oct 13, 2019 21:18:34.30 

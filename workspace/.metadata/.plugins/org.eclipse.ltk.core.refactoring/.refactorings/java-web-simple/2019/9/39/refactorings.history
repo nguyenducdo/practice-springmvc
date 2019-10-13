@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.dodo.service.HomeService&apos; to &apos;IHomeService&apos;&#x0D;&#x0A;- Original project: &apos;java-web-simple&apos;&#x0D;&#x0A;- Original element: &apos;com.dodo.service.HomeService&apos;&#x0D;&#x0A;- Renamed element: &apos;com.dodo.service.IHomeService&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;HomeService&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.dodo.service{HomeService.java[HomeService" matchStrategy="1" name="IHomeService" qualified="false" references="true" similarDeclarations="false" stamp="1569665209531" textual="false" version="1.0"/>
+</session>

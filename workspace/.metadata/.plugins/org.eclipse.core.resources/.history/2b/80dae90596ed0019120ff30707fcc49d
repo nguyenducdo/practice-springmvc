@@ -1,0 +1,5 @@
+package com.dodo.dto;
+
+public class MyUser {
+
+}

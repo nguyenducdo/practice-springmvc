@@ -17,10 +17,14 @@ import org.springframework.data.jpa.domain.support.AuditingEntityListener;
 
 @MappedSuperclass
 @EntityListeners(AuditingEntityListener.class)
+// Dựa trên JPA Lifecycle Callback methods (@PrePersist, @PostPersist, @PreUpdate ...)
+// http://www.thejavageek.com/2014/05/24/jpa-entitylisteners/
 public abstract class BaseEntity {
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
+//	https://huongdanjava.com/vi/tim-hieu-ve-annotation-generatedvalue-trong-jpa-phan-1.html
+//	https://huongdanjava.com/vi/tim-hieu-ve-annotation-generatedvalue-trong-jpa-phan-2.html
 	private Long id;
 	
 	@Column(name = "modifieddate")

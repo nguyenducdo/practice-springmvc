@@ -1,5 +1,0 @@
-package com.dodo.service.impl;
-
-public class CustomUserDetailsService {
-
-}

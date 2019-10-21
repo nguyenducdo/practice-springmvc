@@ -1,5 +1,0 @@
-package com.dodo.security;
-
-public class CustomSuccessHandler {
-
-}

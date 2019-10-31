@@ -1,38 +1,62 @@
 package com.dodo.dto;
 
-import java.sql.Timestamp;
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
 
 public abstract class AbstractDTO<T> {
-	private Long id;
-	private Timestamp createdDate;
-	private Timestamp modifiedDate;
-	private String createdBy;
-	private String modifiedBy;
-	private long[] ids;
 	
-	public Long getId() {
-		return id;
+	private Date modifiedDate;
+	private Date createdDate;
+	private String modifiedBy;
+	private String createdBy;
+	private long[] ids;
+	private List<T> list = new ArrayList<>();
+	private int startPage;
+	private int totalPage;
+	private int totalItem;
+	
+	public long[] getIds() {
+		return ids;
 	}
-	public void setId(Long id) {
-		this.id = id;
+	public void setIds(long[] ids) {
+		this.ids = ids;
 	}
-	public Timestamp getCreatedDate() {
-		return createdDate;
+	public List<T> getList() {
+		return list;
 	}
-	public void setCreatedDate(Timestamp createdDate) {
-		this.createdDate = createdDate;
+	public void setList(List<T> list) {
+		this.list = list;
 	}
-	public Timestamp getModifiedDate() {
+	public int getStartPage() {
+		return startPage;
+	}
+	public void setStartPage(int startPage) {
+		this.startPage = startPage;
+	}
+	public int getTotalPage() {
+		return totalPage;
+	}
+	public void setTotalPage(int totalPage) {
+		this.totalPage = totalPage;
+	}
+	public int getTotalItem() {
+		return totalItem;
+	}
+	public void setTotalItem(int totalItem) {
+		this.totalItem = totalItem;
+	}
+	public Date getModifiedDate() {
 		return modifiedDate;
 	}
-	public void setModifiedDate(Timestamp modifiedDate) {
+	public void setModifiedDate(Date modifiedDate) {
 		this.modifiedDate = modifiedDate;
 	}
-	public String getCreatedBy() {
-		return createdBy;
+	public Date getCreatedDate() {
+		return createdDate;
 	}
-	public void setCreatedBy(String createdBy) {
-		this.createdBy = createdBy;
+	public void setCreatedDate(Date createdDate) {
+		this.createdDate = createdDate;
 	}
 	public String getModifiedBy() {
 		return modifiedBy;
@@ -40,12 +64,13 @@ public abstract class AbstractDTO<T> {
 	public void setModifiedBy(String modifiedBy) {
 		this.modifiedBy = modifiedBy;
 	}
-	public long[] getIds() {
-		return ids;
+	public String getCreatedBy() {
+		return createdBy;
 	}
-	public void setIds(long[] ids) {
-		this.ids = ids;
+	public void setCreatedBy(String createdBy) {
+		this.createdBy = createdBy;
 	}
+	
 	
 	
 }

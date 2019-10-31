@@ -1,26 +1,25 @@
-<!-- Sidebar -->
-<ul class="sidebar navbar-nav">
-	<li class="nav-item active"><a class="nav-link" href="index.html">
-			<i class="fas fa-fw fa-tachometer-alt"></i> <span>Dashboard</span>
-	</a></li>
-	<li class="nav-item dropdown"><a class="nav-link dropdown-toggle"
-		href="#" id="pagesDropdown" role="button" data-toggle="dropdown"
-		aria-haspopup="true" aria-expanded="false"> <i
-			class="fas fa-fw fa-folder"></i> <span>Pages</span>
-	</a>
-		<div class="dropdown-menu" aria-labelledby="pagesDropdown">
-			<h6 class="dropdown-header">Login Screens:</h6>
-			<a class="dropdown-item" href="login.html">Login</a> <a
-				class="dropdown-item" href="register.html">Register</a> <a
-				class="dropdown-item" href="forgot-password.html">Forgot
-				Password</a>
-			<div class="dropdown-divider"></div>
-			<h6 class="dropdown-header">Other Pages:</h6>
-			<a class="dropdown-item" href="404.html">404 Page</a> <a
-				class="dropdown-item" href="blank.html">Blank Page</a>
-		</div></li>
-	<li class="nav-item"><a class="nav-link" href="charts.html"> <i
-			class="fas fa-fw fa-chart-area"></i> <span>Charts</span></a></li>
-	<li class="nav-item"><a class="nav-link" href="${pageContext.request.contextPath}/admin-news/list"> <i
-			class="fas fa-fw fa-table"></i> <span>Tables</span></a></li>
+<ul class="nav navbar-nav side-nav">
+	<li class="active"><a href="index.html"><i
+			class="fa fa-dashboard"></i> Dashboard</a></li>
+	<li><a href="charts.html"><i class="fa fa-bar-chart-o"></i>
+			Charts</a></li>
+	<li><a href="<c:url value='/admin-news'/>"><i class="fa fa-table"></i> Tables</a></li>
+	<li><a href="forms.html"><i class="fa fa-edit"></i> Forms</a></li>
+	<li><a href="typography.html"><i class="fa fa-font"></i>
+			Typography</a></li>
+	<li><a href="bootstrap-elements.html"><i class="fa fa-desktop"></i>
+			Bootstrap Elements</a></li>
+	<li><a href="bootstrap-grid.html"><i class="fa fa-wrench"></i>
+			Bootstrap Grid</a></li>
+	<li><a href="blank-page.html"><i class="fa fa-file"></i> Blank
+			Page</a></li>
+	<li class="dropdown"><a href="#" class="dropdown-toggle"
+		data-toggle="dropdown"><i class="fa fa-caret-square-o-down"></i>
+			Dropdown <b class="caret"></b></a>
+		<ul class="dropdown-menu">
+			<li><a href="#">Dropdown Item</a></li>
+			<li><a href="#">Another Item</a></li>
+			<li><a href="#">Third Item</a></li>
+			<li><a href="#">Last Item</a></li>
+		</ul></li>
 </ul>

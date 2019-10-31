@@ -6,18 +6,28 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="Logout"/>
+		<item key="selection" value="alert"/>
 		<list key="findhistory">
-			<item value="logout"/>
-			<item value="dropdown-item"/>
-			<item value="action"/>
-			<item value="hidden"/>
-			<item value="login"/>
-			<item value="&quot;"/>
-			<item value="&lt;script src=&quot;"/>
-			<item value="&lt;link href=&quot;"/>
+			<item value="alert"/>
+			<item value="categoryId"/>
+			<item value="newDTO"/>
+			<item value="formData"/>
+			<item value="model"/>
+			<item value="c:url"/>
+			<item value="path"/>
+			<item value="fa-check"/>
+			<item value="fa-trash"/>
+			<item value=".checkbox"/>
+			<item value="checkbox"/>
+			<item value="check"/>
+			<item value="btn-"/>
+			<item value="btn-create"/>
+			<item value="btn-primary"/>
 		</list>
 		<list key="replacehistory">
+			<item value="newDTO.totalPage"/>
+			<item value="newDTO.startPage"/>
+			<item value="newDTO.s"/>
 			<item value="&lt;script src=&quot;&lt;c:url value=&apos;/template/admin/"/>
 			<item value="&lt;link href=&quot;&lt;c:url value=&apos;template/admin/"/>
 		</list>
